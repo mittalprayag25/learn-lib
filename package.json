@@ -36,8 +36,8 @@
     "ios",
     "android"
   ],
-  "repository": "http://www.youtube.com",
-  "author": "Prayag <prayag.mittal@singtel.com> (http://www.youtube.com)",
+  "repository": "https://github.com/mittalprayag25/learn-lib.git",
+  "author": "Prayag <mittalprayag_25@yahoo.co.in> (http://www.youtube.com)",
   "license": "MIT",
   "bugs": {
     "url": "http://www.youtube.com/issues"
